@@ -324,28 +324,6 @@ header h1 {
 </head>
 
 <body>
-
- <script>
-function getParam ( sname )
-{
-  var params = location.search.substr(location.search.indexOf("?")+1);
-  var sval =  params.replace("sv=", "");
-  
-  return sval;
-}
-var sv = getParam("sv");
-
-</script>
-<script>
-  var responseText = ''+sv+'';
-  urlArry = responseText.split(',');
-  start = true;
-  num_of_urlArry = urlArry.length;
-  index_of_urlArry = 0;
-</script>
-
-
-	
     <!-- Header -->
     <header>
         <div id="player-wrapper">
@@ -370,6 +348,24 @@ var sv = getParam("sv");
     </header>
     <!-- The element where the channel list -->
 	
+	  <script>
+function getParam ( sname )
+{
+  var params = location.search.substr(location.search.indexOf("?")+1);
+  var sval =  params.replace("sv=", "");
+  
+  return sval;
+}
+var sv = getParam("sv");
+
+</script>
+<script>
+  var responseText = ''+sv+'';
+  urlArry = responseText.split(',');
+  start = true;
+  num_of_urlArry = urlArry.length;
+  index_of_urlArry = 0;
+</script>
 	
 	
 	
