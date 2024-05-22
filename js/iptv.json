@@ -1,6 +1,6 @@
 [
- {"link2":"//raw.githubusercontent.com/githubmahin/iptv24/main/index.html","img":"","genre":"All","lang":"IPTV","name":"FreeTV","author":"TVBD"}
-,{"link2":"//raw.githubusercontent.com/sohag1192/BDIX-IPTV/master/new%20tv%20bd.m3u8","img":"","genre":"IPL","lang":"IPTV","name":"NewTV","author":"TVBD"}
+ {"link2":"//raw.githubusercontent.com/githubmahin/iptv24/main/index.html","img":"//raw.githubusercontent.com/tvbd/m3u/main/img/ip.png","genre":"All","lang":"IPTV","name":"FreeTV","author":"TVBD"}
+,{"link2":"//raw.githubusercontent.com/sohag1192/BDIX-IPTV/master/new%20tv%20bd.m3u8","img":"//raw.githubusercontent.com/tvbd/m3u/main/img/ip.png","genre":"IPL","lang":"IPTV","name":"NewTV","author":"TVBD"}
 ,{"link2":"//raw.githubusercontent.com/280b9f9b/IPTVList/main/TVChannels.m3u","img":"","genre":"Other","lang":"IPTV","name":"Abu Dhabi","author":"TVBD"}
 ,{"link2":"https://iptv-org.github.io/iptv/categories/sports.m3u","img":"","genre":"Sports","lang":"IPTV","name":"Sports","author":"TVBD"}
 ,{"link2":"https://iptv-org.github.io/iptv/categories/documentary.m3u","img":"","genre":"Documentary","lang":"IPTV","name":"Documentary","author":"TVBD"}
